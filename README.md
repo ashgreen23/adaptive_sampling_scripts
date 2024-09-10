@@ -1,6 +1,8 @@
 # adaptive_sampling_scripts
 Scripts and data for adaptive sampling analysis
 
+NOTE: An example of how to run a simulation on BEEG is depicted on my MRes project page, but further details about scripts/commands and what they are actually doing is available here, as I did not write this code. analyse_unblocks.py is used for alignment. analyse_RU.py is used for enrichment. See below for SH's descriptions of these scripts.
+
 ## Data
 
 - `data/cps/Clusters` directory: contains CBL sequences clusterd by scheme in [Mavroidi et al.] (https://pubmed.ncbi.nlm.nih.gov/17766424/).
